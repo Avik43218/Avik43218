@@ -4,6 +4,8 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=Avik43218&color=red)
+
 <h3>When I code, I rely on:</h3>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=white">
