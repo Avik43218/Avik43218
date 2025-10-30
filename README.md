@@ -22,3 +22,11 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
 </div>
+
+---
+
+<h3>My Badges:</h3>
+
+<br />
+
+[![An image of @avik43218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avik43218)](https://holopin.io/@avik43218)
