@@ -29,4 +29,4 @@
 
 <br />
 
-[![An image of @avik43218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avik43218)](https://holopin.io/@avik43218)
+[![An image of @avik43218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avik43218)]
