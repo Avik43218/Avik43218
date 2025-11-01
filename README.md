@@ -9,6 +9,7 @@
 <h3>When I code, I rely on:</h3>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-green?style=plastic&logo=cplusplus&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Flask-red?style=plastic&logo=flask&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/-HTML5-yellow?style=plastic&logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-purple?style=plastic&logo=css&logoColor=white">
