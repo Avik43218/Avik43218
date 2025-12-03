@@ -4,6 +4,13 @@
 
 ---
 
+<p align="justified">
+I am a Computer Science and Engineering student at Heritage Institute of Technology (Kolkata), and I like to learn about computers...
+As for my hobbies, I like watching animes and reading manhwas...
+</p>
+
+---
+
 ![](https://komarev.com/ghpvc/?username=Avik43218&color=red)
 
 <h3>When I code, I rely on:</h3>
