@@ -26,7 +26,7 @@ As for my hobbies, I like watching animes and reading manhwas...
 
 <div align="justified">
   <h3>My Social Links:</h3>
-  <a href="https://www.instagram.com/ghost.__repr__/">
+  <a href="https://www.instagram.com/_shady_mind_47/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
 </div>
