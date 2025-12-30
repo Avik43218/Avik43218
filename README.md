@@ -5,23 +5,24 @@
 ---
 
 <p align="justified">
-I am a Computer Science and Engineering student at Heritage Institute of Technology (Kolkata), and I like to learn about computers...
-As for my hobbies, I like watching animes and reading manhwas...
+I am a passionate <b>Systems Engineer</b> and <b>Software Engineer</b>, studying Computer Science and Engineering at Heritage Institute of Technology, Kolkata.
+I also have an interest towards watching animes and reading manhwas :)
 </p>
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=Avik43218&color=red)
 
-<h3>When I code, I rely on:</h3>
+<h3>Programming Languages I know:</h3>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-green?style=plastic&logo=cplusplus&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Flask-red?style=plastic&logo=flask&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-HTML5-yellow?style=plastic&logo=html5&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-purple?style=plastic&logo=css&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-967BB6?style=plastic&logo=mysql&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-SQLite-violet?style=plastic&logo=sqlite&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C-E2E8F0?style=for-the-badge&logo=C&logoColor=A8B9CC">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-FBFBFB?style=for-the-badge&logo=C%2B%2B&logoColor=4b5ec1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-HTML5-FCFCFC?style=for-the-badge&logo=html5&logoColor=f68633">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-fafcf8?style=for-the-badge&logo=css&logoColor=663399">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff">
+
 </p>
 
 <div align="justified">
