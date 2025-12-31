@@ -15,22 +15,42 @@ I also have an interest towards watching animes and reading manhwas :)
 
 <h3>Programming Languages I know:</h3>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-C-E2E8F0?style=for-the-badge&logo=C&logoColor=A8B9CC">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-FBFBFB?style=for-the-badge&logo=C%2B%2B&logoColor=4b5ec1">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-HTML5-FCFCFC?style=for-the-badge&logo=html5&logoColor=f68633">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-fafcf8?style=for-the-badge&logo=css&logoColor=663399">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=ffffff">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff">
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C-E2E8F0?style=for-the-badge&logo=C&logoColor=A8B9CC&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-FBFBFB?style=for-the-badge&logo=C%2B%2B&logoColor=4b5ec1&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-HTML5-FCFCFC?style=for-the-badge&logo=html5&logoColor=f68633&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-fafcf8?style=for-the-badge&logo=css&logoColor=663399&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=ffffff&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff&logoSize=auto">
 </p>
 
-<div align="justified">
-  <h3>My Social Links:</h3>
-  <a href="https://www.instagram.com/_shady_mind_47/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<br />
+
+<h3>Tools, Frameworks and Platforms I use:</h3>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Git-757a80?style=for-the-badge&logo=git&logoColor=F05032&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Vim-c9c9c9?style=for-the-badge&logo=vim&logoColor=019733&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-VS%20Code-008FC7?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Bootstrap-fdfdfd?style=for-the-badge&logo=bootstrap&logoColor=7952B3&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-NumPy-f2f2f2?style=for-the-badge&logo=numpy&logoColor=013243&logoSize=auto">
+</p>
+
+<br />
+
+<h3>Connect with Me:</h3>
+<p>
+  <a href="https://instagram.com/_shady_mind_47/" target="_blank" rel="noopener">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-fdfdfd?style=for-the-badge&logo=instagram&logoColor=FF0069&logoSize=auto">
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/%20avik-roy-choudhury-a28627389" target="_blank" rel="noopener">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-Linkedin-2281b7?style=for-the-badge">
+  </a>
+  <a href="" target="_blank" rel="noopener">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff&logoSize=auto">
+  </a>
+</p>
 
 ---
 
