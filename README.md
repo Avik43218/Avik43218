@@ -40,7 +40,7 @@ I also have an interest towards watching animes and reading manhwas :)
 <br />
 
 <h3>Connect with Me:</h3>
-<p>
+
   <a href="https://instagram.com/_shady_mind_47/" target="_blank" rel="noopener noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-fdfdfd?style=for-the-badge&logo=instagram&logoColor=FF0069&logoSize=auto">
   </a>
@@ -50,7 +50,7 @@ I also have an interest towards watching animes and reading manhwas :)
   <a href="" target="_blank" rel="noopener noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff&logoSize=auto">
   </a>
-</p>
+
 
 ---
 
