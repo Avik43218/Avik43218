@@ -41,13 +41,13 @@ I also have an interest towards watching animes and reading manhwas :)
 
 <h3>Connect with Me:</h3>
 <p>
-  <a href="https://instagram.com/_shady_mind_47/" target="_blank" rel="noopener">
+  <a href="https://instagram.com/_shady_mind_47/" target="_blank" rel="noopener noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-fdfdfd?style=for-the-badge&logo=instagram&logoColor=FF0069&logoSize=auto">
   </a>
-  <a href="https://www.linkedin.com/in/%20avik-roy-choudhury-a28627389" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/%20avik-roy-choudhury-a28627389" target="_blank" rel="noopener noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Linkedin-2281b7?style=for-the-badge">
   </a>
-  <a href="" target="_blank" rel="noopener">
+  <a href="" target="_blank" rel="noopener noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff&logoSize=auto">
   </a>
 </p>
