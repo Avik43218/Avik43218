@@ -47,7 +47,7 @@ I also have an interest towards watching animes and reading manhwas :)
   <a href="https://www.linkedin.com/in/%20avik-roy-choudhury-a28627389" target="_blank" rel="noopener noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Linkedin-2281b7?style=for-the-badge">
   </a>
-  <a href="" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/919124523020849162" target="_blank" rel="noopener noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff&logoSize=auto">
   </a>
 </p>
