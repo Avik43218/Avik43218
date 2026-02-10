@@ -13,6 +13,14 @@ I also have an interest towards watching animes and reading manhwas :)
 
 ![](https://komarev.com/ghpvc/?username=Avik43218&color=red)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avik43218/Avik43218/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avik43218/Avik43218/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Avik43218/Avik43218/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <h3>Programming Languages I know:</h3>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow&logoSize=auto">
