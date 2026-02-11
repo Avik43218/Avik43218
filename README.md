@@ -61,9 +61,10 @@ I also have an interest towards watching animes and reading manhwas :)
 </p>
 
 ---
-
+<!--
 <h3>My Badges:</h3>
 
 <br />
 
 [![An image of @avik43218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avik43218)](https://holopin.io/@avik43218)
+-->
