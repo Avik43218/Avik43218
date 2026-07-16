@@ -5,7 +5,7 @@
 ---
 
 <p align="justified">
-I am a passionate <b>Systems Engineer</b> and <b>Software Engineer</b>, studying Computer Science and Engineering at Heritage Institute of Technology, Kolkata.
+I am an aspiring <b>Systems Engineer</b> and <b>Software Engineer</b>, studying Computer Science and Engineering at Heritage Institute of Technology, Kolkata.
 I also have an interest towards watching animes and reading manhwas :)
 </p>
 
@@ -24,11 +24,10 @@ I also have an interest towards watching animes and reading manhwas :)
 <h3>Programming Languages I use:</h3>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-C-E2E8F0?style=for-the-badge&logo=C&logoColor=A8B9CC&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-FBFBFB?style=for-the-badge&logo=C%2B%2B&logoColor=4b5ec1&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-0065B0?style=for-the-badge&logo=cplusplus&logoColor=%23FCFCFC">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=%23FCFCFC">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-HTML5-FCFCFC?style=for-the-badge&logo=html5&logoColor=f68633&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-fafcf8?style=for-the-badge&logo=css&logoColor=663399&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-HTML5-E76946?style=for-the-badge&logo=html5&logoColor=%23FCFCFC">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logoColor=%23FCFCFC">
   <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=ffffff&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/-BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff&logoSize=auto">
 </p>
@@ -51,9 +50,6 @@ I also have an interest towards watching animes and reading manhwas :)
 
 <h3>Connect with Me:</h3>
 <p>
-  <a href="https://instagram.com/_shady_mind_47/" target="_blank" rel="noopener noreferrer">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-fdfdfd?style=for-the-badge&logo=instagram&logoColor=FF0069&logoSize=auto">
-  </a>
   <a href="https://www.linkedin.com/in/avik-roy-choudhury-a28627389" target="_blank" rel="noopener noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Linkedin-2281b7?style=for-the-badge">
   </a>
