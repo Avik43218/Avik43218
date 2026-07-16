@@ -21,11 +21,12 @@ I also have an interest towards watching animes and reading manhwas :)
   </picture>
 </div>
 
-<h3>Programming Languages I know:</h3>
+<h3>Programming Languages I use:</h3>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/-C-E2E8F0?style=for-the-badge&logo=C&logoColor=A8B9CC&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-FBFBFB?style=for-the-badge&logo=C%2B%2B&logoColor=4b5ec1&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=%23FCFCFC">
   <img alt="Static Badge" src="https://img.shields.io/badge/-HTML5-FCFCFC?style=for-the-badge&logo=html5&logoColor=f68633&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-fafcf8?style=for-the-badge&logo=css&logoColor=663399&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=ffffff&logoSize=auto">
