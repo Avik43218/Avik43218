@@ -48,6 +48,12 @@ I also have an interest towards watching animes and reading manhwas :)
 
 <br />
 
+<h3>My GitHub Stats: </h3>
+<p>
+  <img alt="Stats Window" src="https://github-readme-stats.shion.dev/api?username=Avik43218&theme=radical&hide_border=false&include_all_commits=true&count_private=false"> <br /> <br />
+  <img alt="Stats Window" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sourodip1804&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+</p>
+
 <h3>Connect with Me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/avik-roy-choudhury-a28627389" target="_blank" rel="noopener noreferrer">
