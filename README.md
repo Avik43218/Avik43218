@@ -25,6 +25,7 @@ I also have an interest towards watching animes and reading manhwas :)
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-0065B0?style=for-the-badge&logo=cplusplus&logoColor=%23FCFCFC">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C-73879E?style=for-the-badge&logo=c&logoColor=%23FCFCFC">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=%23FCFCFC">
   <img alt="Static Badge" src="https://img.shields.io/badge/-x86_Assembly-3F9428?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/-HTML5-E76946?style=for-the-badge&logo=html5&logoColor=%23FCFCFC">
