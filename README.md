@@ -48,6 +48,8 @@ I also have an interest towards watching animes and reading manhwas :)
   <img alt="Static Badge" src="https://img.shields.io/badge/-NumPy-f2f2f2?style=for-the-badge&logo=numpy&logoColor=013243&logoSize=auto">
   <br />
   <img alt="Static Badge" src="https://img.shields.io/badge/-Ghidra-5C1F83?style=for-the-badge&logo=dungeonsanddragons&logoColor=%23FCFCFC">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=%232F2F30">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Docker-F2F2F2?style=for-the-badge&logo=docker&logoColor=%232496ED">
 </p>
 
 <br />
