@@ -46,12 +46,15 @@ I also have an interest towards watching animes and reading manhwas :)
   <img alt="Static Badge" src="https://img.shields.io/badge/-FASTAPI-23c292?style=for-the-badge&logo=fastapi&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/-OLLAMA-eb9328?style=for-the-badge&logo=ollama&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-NumPy-f2f2f2?style=for-the-badge&logo=numpy&logoColor=013243&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=white&color=%2347A248">
   <br />
+  <img alt="Static Badge" src="https://img.shields.io/badge/-NumPy-f2f2f2?style=for-the-badge&logo=numpy&logoColor=013243&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/-OpenGL-white?style=for-the-badge&logo=OpenGL&logoColor=white&color=%235586A4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Blender-white?style=for-the-badge&logo=Blender&logoColor=white&color=%23E87D0D">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Ghidra-5C1F83?style=for-the-badge&logo=dungeonsanddragons&logoColor=%23FCFCFC">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=%232F2F30">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Docker-F2F2F2?style=for-the-badge&logo=docker&logoColor=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Render-white?style=for-the-badge&logo=Render&logoColor=white&color=%23000000">
 </p>
 
 <br />
